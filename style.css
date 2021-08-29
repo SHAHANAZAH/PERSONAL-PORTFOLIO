@@ -1,0 +1,9 @@
+button{
+    color:white;
+    background:black;
+    
+}
+body{
+    background-image: url("bg3.jpg");
+    background-size: cover;
+}
